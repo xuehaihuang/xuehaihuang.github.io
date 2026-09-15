@@ -394,6 +394,16 @@ h3 {
   font-size: 1.15rem;
 }
 
+.publication-list-full .publication {
+  gap: 1.5rem;
+  padding-block: 1.05rem;
+}
+
+.publication-list-full .publication h3 {
+  margin-bottom: 0.3rem;
+  line-height: 1.35;
+}
+
 .publication-authors,
 .publication-venue,
 .publication-note {

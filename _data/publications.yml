@@ -1,3 +1,11 @@
+- title: "Weakly Symmetric and Traceless Tangential-Normal Tensor Finite Elements: Application to the Brinkman Equations"
+  authors: "<strong>Xuehai Huang</strong> and X. Zhao"
+  journal: "Preprint"
+  year: 2026
+  status: "Preprint"
+  arxiv: "2609.10331"
+  selected: false
+
 - title: "A Lowest-Order Robust Mixed Finite Element Method with a Third-Order Tensor Variable for Strain Gradient Elasticity"
   authors: "<strong>Xuehai Huang</strong> and Z. Tang"
   journal: "Preprint"
