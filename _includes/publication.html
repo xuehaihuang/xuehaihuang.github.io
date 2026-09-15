@@ -1,0 +1,23 @@
+<article class="publication{% if include.compact %} publication-compact{% endif %}">
+  <div class="publication-main">
+    <h3>{{ include.paper.title }}</h3>
+    <p class="publication-authors">{{ include.paper.authors }}</p>
+    <p class="publication-venue">
+      {% if include.paper.journal %}<em>{{ include.paper.journal }}</em>{% endif %}
+      {% if include.paper.volume %}, {{ include.paper.volume }}{% endif %}
+      {% if include.paper.pages %}, {{ include.paper.pages }}{% endif %}
+      {% if include.paper.year %} ({{ include.paper.year }}){% endif %}.
+    </p>
+    {% unless include.compact %}
+      {% if include.paper.note %}<p class="publication-note">{{ include.paper.note }}</p>{% endif %}
+    {% endunless %}
+  </div>
+  <div class="publication-meta">
+    {% if include.paper.status %}<span class="status">{{ include.paper.status }}</span>{% endif %}
+    <div class="paper-links">
+      {% if include.paper.doi %}<a href="https://doi.org/{{ include.paper.doi }}">DOI</a>{% endif %}
+      {% if include.paper.arxiv %}<a href="https://arxiv.org/abs/{{ include.paper.arxiv }}">arXiv</a>{% endif %}
+      {% if include.paper.url %}<a href="{{ include.paper.url }}">Article</a>{% endif %}
+    </div>
+  </div>
+</article>

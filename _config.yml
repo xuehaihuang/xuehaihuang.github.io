@@ -1,0 +1,25 @@
+title: "Xuehai Huang | 黄学海"
+name: "Xuehai Huang"
+description: "Professor of Mathematics at Shanghai University of Finance and Economics. Research in finite element methods, finite element complexes, tensor finite elements, and numerical methods for PDEs."
+url: "https://xuehaihuang.github.io"
+baseurl: ""
+lang: en
+timezone: Asia/Shanghai
+
+markdown: kramdown
+permalink: pretty
+
+author:
+  name: "Xuehai Huang"
+  email: "huang.xuehai@sufe.edu.cn"
+
+social:
+  scholar: "https://scholar.google.com/citations?user=hjqAgFIAAAAJ"
+  mathscinet: "https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/author.html?mrauthid=854280"
+  researchgate: "https://www.researchgate.net/profile/Xuehai-Huang"
+  github: "https://github.com/xuehaihuang"
+  orcid: "https://orcid.org/0000-0003-2966-7426"
+  sufe: "https://math.sufe.edu.cn/12/5e/c20711a266846/page.htm"
+
+exclude:
+  - README.md

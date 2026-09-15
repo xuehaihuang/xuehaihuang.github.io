@@ -1,0 +1,20 @@
+{% assign nav = "Home,/,Research,/research/,Publications,/publications/,Teaching,/teaching/,Students,/students/,CV,/cv/" | split: "," %}
+<header class="site-header">
+  <div class="container nav-shell">
+    <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Xuehai Huang home">
+      <span class="brand-name">Xuehai Huang</span>
+      <span class="brand-cn">黄学海</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') !== 'true')">Menu</button>
+    <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+      {% for item in nav %}
+        {% assign mod = forloop.index0 | modulo: 2 %}
+        {% if mod == 0 %}
+          {% assign label = item %}
+        {% else %}
+          <a href="{{ item | relative_url }}"{% if page.url == item %} aria-current="page"{% endif %}>{{ label }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>

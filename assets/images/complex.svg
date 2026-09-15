@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-labelledby="title desc">
+  <title id="title">Finite element complex illustration</title>
+  <desc id="desc">A restrained geometric diagram of connected simplices and differential operators.</desc>
+  <rect width="520" height="620" fill="#f4f7f8"/>
+  <g fill="none" stroke="#c4d0d8" stroke-width="1">
+    <path d="M74 484 244 100 442 476Z"/>
+    <path d="m74 484 225-134 143 126"/>
+    <path d="m244 100 55 250"/>
+    <path d="m74 484 264 58 104-66"/>
+    <path d="m244 100 94 442"/>
+    <circle cx="244" cy="100" r="13"/>
+    <circle cx="74" cy="484" r="13"/>
+    <circle cx="442" cy="476" r="13"/>
+    <circle cx="299" cy="350" r="11"/>
+  </g>
+  <g fill="#16324f">
+    <circle cx="244" cy="100" r="5"/>
+    <circle cx="74" cy="484" r="5"/>
+    <circle cx="442" cy="476" r="5"/>
+    <circle cx="299" cy="350" r="5"/>
+  </g>
+  <g fill="none" stroke="#b58a45" stroke-width="2">
+    <path d="M124 265h112"/>
+    <path d="m225 255 11 10-11 10"/>
+    <path d="M305 265h92"/>
+    <path d="m386 255 11 10-11 10"/>
+  </g>
+  <g fill="#16324f" font-family="Georgia, serif" font-size="24">
+    <text x="82" y="245">V⁰</text>
+    <text x="256" y="245">V¹</text>
+    <text x="414" y="245">V²</text>
+  </g>
+  <g fill="#607080" font-family="Georgia, serif" font-size="16" font-style="italic">
+    <text x="159" y="250">d</text>
+    <text x="340" y="250">d</text>
+    <text x="184" y="576">discrete structure</text>
+  </g>
+</svg>

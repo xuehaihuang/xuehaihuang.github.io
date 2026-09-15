@@ -1,13 +1,29 @@
-# Hi, I'm Xuehai Huang 👋
+# Xuehai Huang — Academic Homepage
 
-I am interested in finite element methods, numerical analysis, and scientific computing.
+Source for [xuehaihuang.github.io](https://xuehaihuang.github.io), built with GitHub Pages and Jekyll.
 
-## Research interests
-- Finite element exterior calculus
-- Elasticity complexes
-- Mixed finite element methods
-- Numerical methods for PDEs
+## Updating publications
 
-## Contact
-- Email: huang.xuehai@sufe.edu.cn
-- Homepage: https://xuehaihuang.github.io
+Edit `_data/publications.yml`. Each record supports:
+
+- `title`, `authors`, `journal`, `volume`, `pages`, and `year`
+- `status` (for example, Published or Preprint)
+- `doi`, `arxiv`, or `url`
+- `selected: true` to feature the paper on the homepage
+
+Keep records in reverse chronological order. Formal bibliographic details should be checked against journal records and MathSciNet.
+
+## Updating news
+
+Edit `_data/news.yml`. The homepage displays each dated item in file order.
+
+## Local preview
+
+If Jekyll is installed, run:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Then open `http://127.0.0.1:4000`.
