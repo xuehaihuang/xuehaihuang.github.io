@@ -50,13 +50,6 @@
   arxiv: "2604.26701"
   selected: false
 
-- title: "Superconvergent and Divergence-Free Mixed Finite Element Methods for the Stokes Equation"
-  authors: "L. Chen, <strong>Xuehai Huang</strong>, C. Zhang, and X. Zhao"
-  journal: "Preprint"
-  year: 2025
-  status: "Preprint"
-  selected: false
-
 - title: "Finite Element Conformal Complexes in Three Dimensions"
   authors: "<strong>Xuehai Huang</strong>"
   journal: "Preprint"
@@ -87,6 +80,16 @@
   year: 2024
   status: "Preprint"
   arxiv: "2410.09689"
+  selected: false
+
+- title: "Superconvergent and Divergence-Free Mixed Finite Element Methods for the Stokes Equation"
+  authors: "L. Chen, <strong>Xuehai Huang</strong>, C. Zhang, and X. Zhao"
+  journal: "SIAM Journal on Numerical Analysis"
+  volume: "64(5)"
+  pages: "1831–1860"
+  year: 2026
+  status: "Published"
+  doi: "10.1137/25M1812087"
   selected: false
 
 - title: "Low-order finite element complex with application to a fourth-order elliptic singular perturbation problem"
