@@ -32,15 +32,13 @@ permalink: /students/
         <p class="card-kicker">Alumni</p>
         <h2>Former Ph.D. Students</h2>
         <div class="student-entries">
-          <article class="student-entry">
+          <article class="student-entry student-entry-inline">
             <h3>Chao Zhang</h3>
-            <p>Ph.D., 2024</p>
-            <p class="student-position">Wenzhou Business College</p>
+            <p>Ph.D., 2024 · <span class="student-position">Wenzhou Business College</span></p>
           </article>
-          <article class="student-entry">
+          <article class="student-entry student-entry-inline">
             <h3>Xuewei Cui</h3>
-            <p>Ph.D., 2026</p>
-            <p class="student-position">Shaoxing Institute of Technology</p>
+            <p>Ph.D., 2026 · <span class="student-position">Shaoxing Institute of Technology</span></p>
           </article>
         </div>
       </section>
