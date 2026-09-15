@@ -1,10 +1,3 @@
-- title: "Nonconforming Linear Element Method for a Generalized Tensor-Valued Stokes Equation with Application to the Triharmonic Equation"
-  authors: "Z. Gu and <strong>Xuehai Huang</strong>"
-  journal: "Journal of Scientific Computing"
-  year: 2026
-  status: "Published"
-  selected: false
-
 - title: "A Lowest-Order Robust Mixed Finite Element Method with a Third-Order Tensor Variable for Strain Gradient Elasticity"
   authors: "<strong>Xuehai Huang</strong> and Z. Tang"
   journal: "Preprint"
@@ -34,14 +27,6 @@
   status: "Preprint"
   selected: false
 
-- title: "Low-Order Finite Element Complex with Application to a Fourth-Order Elliptic Singular Perturbation Problem"
-  authors: "X. Cui and <strong>Xuehai Huang</strong>"
-  journal: "SIAM Journal on Numerical Analysis"
-  year: 2026
-  status: "Published"
-  doi: "10.1137/25M1772320"
-  selected: true
-
 - title: "Symmetric-Tensor Distributional Mixed Method for a Fourth-Order Elliptic Singular Perturbation Problem"
   authors: "<strong>Xuehai Huang</strong> and X. Zhao"
   journal: "Preprint"
@@ -55,30 +40,6 @@
   year: 2026
   status: "Preprint"
   arxiv: "2604.26701"
-  selected: false
-
-- title: "A Robust C⁰ Interior Penalty Method for a Gradient-Elastic Kirchhoff Plate Model"
-  authors: "M. Chen, J. Huang, and <strong>Xuehai Huang</strong>"
-  journal: "Journal of Scientific Computing"
-  year: 2026
-  status: "Published"
-  selected: false
-
-- title: "Hybridizable Symmetric Stress Elements on the Barycentric Refinement in Arbitrary Dimensions"
-  authors: "L. Chen and <strong>Xuehai Huang</strong>"
-  journal: "Mathematics of Computation"
-  year: 2025
-  status: "Published"
-  selected: false
-
-- title: "Robust and Optimal Mixed Methods for a Fourth-Order Elliptic Singular Perturbation Problem"
-  authors: "<strong>Xuehai Huang</strong> and Z. Tang"
-  journal: "Journal of Scientific Computing"
-  volume: "105"
-  pages: "72"
-  year: 2025
-  status: "Published"
-  doi: "10.1007/s10915-025-03101-x"
   selected: false
 
 - title: "Superconvergent and Divergence-Free Mixed Finite Element Methods for the Stokes Equation"
@@ -96,57 +57,12 @@
   arxiv: "2508.01238"
   selected: false
 
-- title: "A Primal Staggered Discontinuous Galerkin Method on Polytopal Meshes"
-  authors: "L. Chen, <strong>Xuehai Huang</strong>, E.-J. Park, and R. Wang"
-  journal: "Journal of Scientific Computing"
-  year: 2025
-  status: "Published"
-  selected: false
-
-- title: "A Nonconforming Finite Element Method with the Use of Nitsche's Technique for a Strain Gradient Elastic Model"
-  authors: "M. Chen, J. Huang, and <strong>Xuehai Huang</strong>"
-  journal: "Journal of Scientific Computing"
-  year: 2025
-  status: "Published"
-  selected: false
-
-- title: "Distributional Finite Element Curl-Div Complexes and Application to Quad-Curl Problems"
-  authors: "L. Chen, <strong>Xuehai Huang</strong>, and C. Zhang"
-  journal: "SIAM Journal on Numerical Analysis"
-  year: 2025
-  status: "Published"
-  selected: true
-
 - title: "An Optimal and Robust Nonconforming Finite Element Method for the Strain Gradient Elasticity"
   authors: "J. Huang, <strong>Xuehai Huang</strong>, and Z. Tang"
   journal: "Preprint"
   year: 2025
   status: "Preprint"
   arxiv: "2505.08461"
-  selected: false
-
-- title: "Complexes from Complexes: Finite Element Complexes in Three Dimensions"
-  authors: "L. Chen and <strong>Xuehai Huang</strong>"
-  journal: "Mathematics of Computation"
-  year: 2025
-  status: "Published"
-  arxiv: "2211.08656"
-  selected: true
-
-- title: "A Decoupled Nonconforming Finite Element Method for the Biharmonic Equation in Three Dimensions"
-  authors: "X. Cui and <strong>Xuehai Huang</strong>"
-  journal: "Applied Numerical Mathematics"
-  year: 2025
-  status: "Published"
-  selected: false
-
-- title: "A New Div-Div-Conforming Symmetric Tensor Finite Element Space with Applications to the Biharmonic Equation"
-  authors: "L. Chen and <strong>Xuehai Huang</strong>"
-  journal: "Mathematics of Computation"
-  volume: "94(351)"
-  year: 2025
-  status: "Published"
-  doi: "10.1090/mcom/3957"
   selected: false
 
 - title: "Tangential-Normal Decompositions of Finite Element Differential Forms"
@@ -165,41 +81,147 @@
   arxiv: "2410.09689"
   selected: false
 
-- title: "H(div)-Conforming Finite Element Tensors with Constraints"
+- title: "Low-order finite element complex with application to a fourth-order elliptic singular perturbation problem"
+  authors: "X. Cui and <strong>Xuehai Huang</strong>"
+  journal: "SIAM Journal on Numerical Analysis"
+  volume: "64(3)"
+  pages: "828–852"
+  year: 2026
+  status: "Published"
+  doi: "10.1137/25M1772320"
+  selected: true
+
+- title: "Complexes from complexes: finite element complexes in three dimensions"
+  authors: "L. Chen and <strong>Xuehai Huang</strong>"
+  journal: "Mathematics of Computation"
+  volume: "95(359)"
+  pages: "1083–1142"
+  year: 2026
+  status: "Published"
+  doi: "10.1090/mcom/4079"
+  selected: true
+
+- title: "A robust C⁰ interior penalty method for a gradient-elastic Kirchhoff plate model"
+  authors: "M. Chen, J. Huang, and <strong>Xuehai Huang</strong>"
+  journal: "Journal of Scientific Computing"
+  volume: "106(3)"
+  pages: "Paper No. 79, 27"
+  year: 2026
+  status: "Published"
+  doi: "10.1007/s10915-026-03198-8"
+  selected: false
+
+- title: "Robust and optimal mixed methods for a fourth-order elliptic singular perturbation problem"
+  authors: "<strong>Xuehai Huang</strong> and Z. Tang"
+  journal: "Journal of Scientific Computing"
+  volume: "105(3)"
+  pages: "Paper No. 72, 29"
+  year: 2025
+  status: "Published"
+  doi: "10.1007/s10915-025-03101-x"
+  selected: false
+
+- title: "A primal staggered discontinuous Galerkin method on polytopal meshes"
+  authors: "L. Chen, <strong>Xuehai Huang</strong>, E.-J. Park, and R. Wang"
+  journal: "Journal of Scientific Computing"
+  volume: "104(3)"
+  pages: "Paper No. 89, 28"
+  year: 2025
+  status: "Published"
+  doi: "10.1007/s10915-025-02998-8"
+  selected: false
+
+- title: "Finite element complexes in two dimensions"
+  authors: "L. Chen and <strong>Xuehai Huang</strong>"
+  journal: "Scientia Sinica Mathematica"
+  volume: "55(8)"
+  pages: "1593–1626"
+  year: 2025
+  status: "Published"
+  doi: "10.1360/scm-2023-0169"
+  selected: false
+
+- title: "A nonconforming finite element method with the use of Nitsche's technique for a strain gradient elastic model"
+  authors: "M. Chen, J. Huang, and <strong>Xuehai Huang</strong>"
+  journal: "Journal of Scientific Computing"
+  volume: "104(1)"
+  pages: "Paper No. 2, 29"
+  year: 2025
+  status: "Published"
+  doi: "10.1007/s10915-025-02929-7"
+  selected: false
+
+- title: "Distributional finite element curl div complexes and application to quad curl problems"
+  authors: "L. Chen, <strong>Xuehai Huang</strong>, and C. Zhang"
+  journal: "SIAM Journal on Numerical Analysis"
+  volume: "63(3)"
+  pages: "1078–1104"
+  year: 2025
+  status: "Published"
+  doi: "10.1137/23M1617400"
+  selected: true
+
+- title: "A decoupled nonconforming finite element method for biharmonic equation in three dimensions"
+  authors: "X. Cui and <strong>Xuehai Huang</strong>"
+  journal: "Applied Numerical Mathematics"
+  volume: "212"
+  pages: "300–311"
+  year: 2025
+  status: "Published"
+  doi: "10.1016/j.apnum.2025.02.012"
+  selected: false
+
+- title: "A new div-div-conforming symmetric tensor finite element space with applications to the biharmonic equation"
+  authors: "L. Chen and <strong>Xuehai Huang</strong>"
+  journal: "Mathematics of Computation"
+  volume: "94(351)"
+  pages: "33–72"
+  year: 2025
+  status: "Published"
+  doi: "10.1090/mcom/3957"
+  selected: false
+
+- title: "H(div)-conforming finite element tensors with constraints"
   authors: "L. Chen and <strong>Xuehai Huang</strong>"
   journal: "Results in Applied Mathematics"
   volume: "23"
-  pages: "100494"
+  pages: "Paper No. 100494, 33"
   year: 2024
   status: "Published"
   doi: "10.1016/j.rinam.2024.100494"
   selected: true
 
-- title: "Robust Mixed Finite Element Methods for a Quad-Curl Singular Perturbation Problem"
+- title: "Robust mixed finite element methods for a quad-curl singular perturbation problem"
   authors: "<strong>Xuehai Huang</strong> and C. Zhang"
   journal: "Journal of Computational and Applied Mathematics"
   volume: "451"
-  pages: "116117"
+  pages: "Paper No. 116117, 19"
   year: 2024
   status: "Published"
   doi: "10.1016/j.cam.2024.116117"
   selected: false
 
-- title: "Geometric Decomposition and Efficient Implementation of High-Order Face and Edge Elements"
+- title: "Geometric decomposition and efficient implementation of high order face and edge elements"
   authors: "C. Chen, L. Chen, <strong>Xuehai Huang</strong>, and H. Wei"
   journal: "Communications in Computational Physics"
+  volume: "35(4)"
+  pages: "1045–1072"
   year: 2024
   status: "Published"
+  doi: "10.4208/cicp.OA-2023-0249"
   selected: false
 
-- title: "New Low-Order Mixed Finite Element Methods for Linear Elasticity"
+- title: "New low-order mixed finite element methods for linear elasticity"
   authors: "<strong>Xuehai Huang</strong>, C. Zhang, Y. Zhou, and Y. Zhu"
   journal: "Advances in Computational Mathematics"
+  volume: "50(2)"
+  pages: "Paper No. 17, 31"
   year: 2024
   status: "Published"
+  doi: "10.1007/s10444-024-10112-z"
   selected: false
 
-- title: "Virtual Element Methods Without Extrinsic Stabilization"
+- title: "Virtual element methods without extrinsic stabilization"
   authors: "C. Chen, <strong>Xuehai Huang</strong>, and H. Wei"
   journal: "SIAM Journal on Numerical Analysis"
   volume: "62(1)"
@@ -209,35 +231,77 @@
   doi: "10.1137/22M1504196"
   selected: true
 
-- title: "Finite Element de Rham and Stokes Complexes in Three Dimensions"
+- title: "Finite element de Rham and Stokes complexes in three dimensions"
   authors: "L. Chen and <strong>Xuehai Huang</strong>"
   journal: "Mathematics of Computation"
   volume: "93(345)"
   pages: "55–110"
   year: 2024
   status: "Published"
+  doi: "10.1090/mcom/3859"
   selected: false
 
-- title: "Nonconforming Finite Element Stokes Complexes in Three Dimensions"
+- title: "A robust lower-order mixed finite element method for a strain gradient elastic model"
+  authors: "M. Chen, J. Huang, and <strong>Xuehai Huang</strong>"
+  journal: "SIAM Journal on Numerical Analysis"
+  volume: "61(5)"
+  pages: "2237–2260"
+  year: 2023
+  status: "Published"
+  doi: "10.1137/22M151649X"
+  selected: false
+
+- title: "Nonconforming finite element Stokes complexes in three dimensions"
   authors: "<strong>Xuehai Huang</strong>"
   journal: "Science China Mathematics"
-  volume: "66"
+  volume: "66(8)"
   pages: "1879–1902"
   year: 2023
   status: "Published"
   doi: "10.1007/s11425-021-2026-7"
   selected: false
 
-- title: "Finite Elements for Div- and Divdiv-Conforming Symmetric Tensors in Arbitrary Dimension"
+- title: "Analysis of divergence free conforming virtual elements for the Brinkman problem"
+  authors: "<strong>Xuehai Huang</strong> and F. Wang"
+  journal: "Mathematical Models and Methods in Applied Sciences"
+  volume: "33(6)"
+  pages: "1245–1280"
+  year: 2023
+  status: "Published"
+  doi: "10.1142/S021820252350029X"
+  selected: false
+
+- title: "Discrete Hessian complexes in three dimensions"
+  authors: "L. Chen and <strong>Xuehai Huang</strong>"
+  journal: "The Virtual Element Method and Its Applications"
+  volume: "31"
+  pages: "93–135"
+  year: 2022
+  status: "Published"
+  doi: "10.1007/978-3-030-95319-5_3"
+  selected: false
+
+- title: "Hᵐ-conforming virtual elements in arbitrary dimension"
+  authors: "C. Chen, <strong>Xuehai Huang</strong>, and H. Wei"
+  journal: "SIAM Journal on Numerical Analysis"
+  volume: "60(6)"
+  pages: "3099–3123"
+  year: 2022
+  status: "Published"
+  doi: "10.1137/21M1440323"
+  selected: false
+
+- title: "Finite elements for div- and divdiv-conforming symmetric tensors in arbitrary dimension"
   authors: "L. Chen and <strong>Xuehai Huang</strong>"
   journal: "SIAM Journal on Numerical Analysis"
   volume: "60(4)"
   pages: "1932–1961"
   year: 2022
   status: "Published"
+  doi: "10.1137/21M1433708"
   selected: true
 
-- title: "A Finite Element Elasticity Complex in Three Dimensions"
+- title: "A finite element elasticity complex in three dimensions"
   authors: "L. Chen and <strong>Xuehai Huang</strong>"
   journal: "Mathematics of Computation"
   volume: "91(337)"
@@ -247,7 +311,7 @@
   doi: "10.1090/mcom/3739"
   selected: true
 
-- title: "Finite Elements for Divdiv-Conforming Symmetric Tensors in Three Dimensions"
+- title: "Finite elements for divdiv conforming symmetric tensors in three dimensions"
   authors: "L. Chen and <strong>Xuehai Huang</strong>"
   journal: "Mathematics of Computation"
   volume: "91(335)"
@@ -257,40 +321,44 @@
   doi: "10.1090/mcom/3700"
   selected: false
 
-- title: "Hᵐ-Conforming Virtual Elements in Arbitrary Dimension"
-  authors: "C. Chen, <strong>Xuehai Huang</strong>, and H. Wei"
-  journal: "SIAM Journal on Numerical Analysis"
-  volume: "60(6)"
-  pages: "3099–3123"
-  year: 2022
-  status: "Published"
-  selected: false
-
-- title: "Error Analysis of a Decoupled Finite Element Method for Quad-Curl Problems"
+- title: "Error analysis of a decoupled finite element method for quad-curl problems"
   authors: "S. Cao, L. Chen, and <strong>Xuehai Huang</strong>"
   journal: "Journal of Scientific Computing"
-  volume: "90"
+  volume: "90(1)"
+  pages: "Paper No. 29, 25"
   year: 2022
   status: "Published"
+  doi: "10.1007/s10915-021-01705-7"
   selected: false
 
-- title: "Piecewise Divergence-Free Nonconforming Virtual Elements for Stokes Problems in Any Dimension"
+- title: "Piecewise divergence-free nonconforming virtual elements for Stokes problem in any dimensions"
   authors: "H. Wei, <strong>Xuehai Huang</strong>, and A. Li"
   journal: "SIAM Journal on Numerical Analysis"
   volume: "59(3)"
   pages: "1835–1856"
   year: 2021
   status: "Published"
+  doi: "10.1137/20M1350479"
   selected: false
 
-- title: "A Morley-Wang-Xu Element Method for a Fourth-Order Elliptic Singular Perturbation Problem"
+- title: "A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem"
   authors: "<strong>Xuehai Huang</strong>, Y. Shi, and W. Wang"
   journal: "Journal of Scientific Computing"
-  volume: "87"
-  pages: "84"
+  volume: "87(3)"
+  pages: "Paper No. 84, 24"
   year: 2021
   status: "Published"
   doi: "10.1007/s10915-021-01483-2"
+  selected: false
+
+- title: "Nonconforming virtual element method for 2m-th order partial differential equations in ℝⁿ with m > n"
+  authors: "<strong>Xuehai Huang</strong>"
+  journal: "Calcolo"
+  volume: "57(4)"
+  pages: "Paper No. 42, 38"
+  year: 2020
+  status: "Published"
+  doi: "10.1007/s10092-020-00381-7"
   selected: false
 
 - title: "Nonconforming Virtual Element Method for 2m-th Order Partial Differential Equations in ℝⁿ"
@@ -303,25 +371,106 @@
   doi: "10.1090/mcom/3498"
   selected: false
 
-- title: "Decoupling of Mixed Methods Based on Generalized Helmholtz Decompositions"
+- title: "A two-level additive Schwarz preconditioner for local C⁰ discontinuous Galerkin methods of Kirchhoff plates"
+  authors: "J. Huang and <strong>Xuehai Huang</strong>"
+  journal: "Communications on Applied Mathematics and Computation"
+  volume: "1(2)"
+  pages: "167–185"
+  year: 2019
+  status: "Published"
+  doi: "10.1007/s42967-019-0003-1"
+  selected: false
+
+- title: "A Hybridizable Discontinuous Galerkin Method for Kirchhoff Plates"
+  authors: "J. Huang and <strong>Xuehai Huang</strong>"
+  journal: "Journal of Scientific Computing"
+  volume: "78(1)"
+  pages: "290–320"
+  year: 2019
+  status: "Published"
+  doi: "10.1007/s10915-018-0780-0"
+  selected: false
+
+- title: "Decoupling of mixed methods based on generalized Helmholtz decompositions"
   authors: "L. Chen and <strong>Xuehai Huang</strong>"
   journal: "SIAM Journal on Numerical Analysis"
   volume: "56(5)"
   pages: "2796–2825"
   year: 2018
   status: "Published"
+  doi: "10.1137/17M1145872"
   selected: false
 
-- title: "Fast Auxiliary Space Preconditioners for Linear Elasticity in Mixed Form"
+- title: "An hp-version error analysis of the discontinuous Galerkin method for linear elasticity"
+  authors: "J. Huang and <strong>Xuehai Huang</strong>"
+  journal: "Applied Numerical Mathematics"
+  volume: "133"
+  pages: "83–99"
+  year: 2018
+  status: "Published"
+  doi: "10.1016/j.apnum.2017.12.010"
+  selected: false
+
+- title: "Morley-Wang-Xu element methods with penalty for a fourth order elliptic singular perturbation problem"
+  authors: "W. Wang, <strong>Xuehai Huang</strong>, K. Tang, and R. Zhou"
+  journal: "Advances in Computational Mathematics"
+  volume: "44(4)"
+  pages: "1041–1061"
+  year: 2018
+  status: "Published"
+  doi: "10.1007/s10444-017-9572-6"
+  selected: false
+
+- title: "Multigrid methods for Hellan-Herrmann-Johnson mixed method of Kirchhoff plate bending problems"
+  authors: "L. Chen, J. Hu, and <strong>Xuehai Huang</strong>"
+  journal: "Journal of Scientific Computing"
+  volume: "76(2)"
+  pages: "673–696"
+  year: 2018
+  status: "Published"
+  doi: "10.1007/s10915-017-0636-z"
+  selected: false
+
+- title: "Quasi-optimal convergence rate for an adaptive hybridizable C⁰ discontinuous Galerkin method for Kirchhoff plates"
+  authors: "P. Sun and <strong>Xuehai Huang</strong>"
+  journal: "Numerische Mathematik"
+  volume: "139(4)"
+  pages: "795–829"
+  year: 2018
+  status: "Published"
+  doi: "10.1007/s00211-018-0953-7"
+  selected: false
+
+- title: "Residual-based a posteriori error estimates for symmetric conforming mixed finite elements for linear elasticity problems"
+  authors: "L. Chen, J. Hu, <strong>Xuehai Huang</strong>, and H. Man"
+  journal: "Science China Mathematics"
+  volume: "61(6)"
+  pages: "973–992"
+  year: 2018
+  status: "Published"
+  doi: "10.1007/s11425-017-9181-2"
+  selected: false
+
+- title: "Fast auxiliary space preconditioners for linear elasticity in mixed form"
   authors: "L. Chen, J. Hu, and <strong>Xuehai Huang</strong>"
   journal: "Mathematics of Computation"
   volume: "87(312)"
   pages: "1601–1633"
   year: 2018
   status: "Published"
+  doi: "10.1090/mcom/3285"
   selected: false
 
-- title: "Stabilized Mixed Finite Element Methods for Linear Elasticity on Simplicial Grids in ℝⁿ"
+- title: "A nonoverlapping DDM for general elastic body-plate problems discretized by the P₁-NZT FEM"
+  authors: "J. Huang and <strong>Xuehai Huang</strong>"
+  journal: "International Journal of Numerical Analysis and Modeling"
+  volume: "15(1-2)"
+  pages: "86–101"
+  year: 2018
+  status: "Published"
+  selected: false
+
+- title: "Stabilized mixed finite element methods for linear elasticity on simplicial grids in ℝⁿ"
   authors: "L. Chen, J. Hu, and <strong>Xuehai Huang</strong>"
   journal: "Computational Methods in Applied Mathematics"
   volume: "17(1)"
@@ -331,20 +480,127 @@
   doi: "10.1515/cmam-2016-0035"
   selected: false
 
-- title: "Convergence of an Adaptive Mixed Finite Element Method for Kirchhoff Plate Bending Problems"
+- title: "A Superconvergent C⁰ Discontinuous Galerkin Method for Kirchhoff Plates: Error Estimates, Hybridization and Postprocessing"
+  authors: "<strong>Xuehai Huang</strong> and J. Huang"
+  journal: "Journal of Scientific Computing"
+  volume: "69(3)"
+  pages: "1251–1278"
+  year: 2016
+  status: "Published"
+  doi: "10.1007/s10915-016-0232-7"
+  selected: false
+
+- title: "A compact C⁰ discontinuous Galerkin method for Kirchhoff plates"
+  authors: "R. An and <strong>Xuehai Huang</strong>"
+  journal: "Numerical Methods for Partial Differential Equations"
+  volume: "31(4)"
+  pages: "1265–1287"
+  year: 2015
+  status: "Published"
+  doi: "10.1002/num.21946"
+  selected: false
+
+- title: "A posteriori error estimates for local C⁰ discontinuous Galerkin methods for Kirchhoff plate bending problems"
+  authors: "Y. Xu, J. Huang, and <strong>Xuehai Huang</strong>"
+  journal: "Journal of Computational Mathematics"
+  volume: "32(6)"
+  pages: "665–686"
+  year: 2014
+  status: "Published"
+  selected: false
+
+- title: "A reduced local C⁰ discontinuous Galerkin method for Kirchhoff plates"
+  authors: "<strong>Xuehai Huang</strong> and J. Huang"
+  journal: "Numerical Methods for Partial Differential Equations"
+  volume: "30(6)"
+  pages: "1902–1930"
+  year: 2014
+  status: "Published"
+  selected: false
+
+- title: "A superconvergence of the Morley element via postprocessing"
+  authors: "J. Huang, <strong>Xuehai Huang</strong>, and S. Zhang"
+  journal: "Recent Advances in Scientific Computing and Applications"
+  volume: "586"
+  pages: "189–196"
+  year: 2013
+  status: "Published"
+  doi: "10.1090/conm/586/11640"
+  selected: false
+
+- title: "The compact discontinuous Galerkin method for nearly incompressible linear elasticity"
+  authors: "<strong>Xuehai Huang</strong> and J. Huang"
+  journal: "Journal of Scientific Computing"
+  volume: "56(2)"
+  pages: "291–318"
+  year: 2013
+  status: "Published"
+  doi: "10.1007/s10915-012-9676-6"
+  selected: false
+
+- title: "Error analysis of a C⁰ discontinuous Galerkin method for Kirchhoff plates"
+  authors: "<strong>Xuehai Huang</strong> and J. Huang"
+  journal: "Journal of Computational Analysis and Applications"
+  volume: "15(1)"
+  pages: "118–132"
+  year: 2013
+  status: "Published"
+  selected: false
+
+- title: "Application of an energy-minimizing algebraic multigrid method for subsurface water simulations"
+  authors: "J.-R. C. Cheng, <strong>Xuehai Huang</strong>, S. Shu, J. Xu, C.-S. Zhang, S. Zhang, and Z. Zhou"
+  journal: "International Journal of Numerical Analysis and Modeling"
+  volume: "10(2)"
+  pages: "374–388"
+  year: 2013
+  status: "Published"
+  selected: false
+
+- title: "Convergence of an adaptive mixed finite element method for Kirchhoff plate bending problems"
   authors: "J. Huang, <strong>Xuehai Huang</strong>, and Y. Xu"
   journal: "SIAM Journal on Numerical Analysis"
   volume: "49(2)"
   pages: "574–607"
   year: 2011
   status: "Published"
+  doi: "10.1137/090773374"
   selected: false
 
-- title: "A New C⁰ Discontinuous Galerkin Method for Kirchhoff Plates"
+- title: "Local and parallel algorithms for fourth order problems discretized by the Morley-Wang-Xu element method"
+  authors: "J. Huang and <strong>Xuehai Huang</strong>"
+  journal: "Numerische Mathematik"
+  volume: "119(4)"
+  pages: "667–697"
+  year: 2011
+  status: "Published"
+  doi: "10.1007/s00211-011-0396-x"
+  selected: false
+
+- title: "A new C⁰ discontinuous Galerkin method for Kirchhoff plates"
   authors: "J. Huang, <strong>Xuehai Huang</strong>, and W. Han"
   journal: "Computer Methods in Applied Mechanics and Engineering"
-  volume: "199(23–24)"
+  volume: "199(23-24)"
   pages: "1446–1454"
   year: 2010
   status: "Published"
+  doi: "10.1016/j.cma.2009.12.012"
+  selected: false
+
+- title: "A P₁-P₃-NZT FEM for solving general elastic multi-structure problems"
+  authors: "C. Chen, J. Huang, and <strong>Xuehai Huang</strong>"
+  journal: "Journal of Computational Analysis and Applications"
+  volume: "11(4)"
+  pages: "728–747"
+  year: 2009
+  status: "Published"
+  selected: false
+
+- title: "Error analysis of a parameter expansion method for corrosion detection in a pipe"
+  authors: "<strong>Xuehai Huang</strong>, J. Huang, and Y. Chen"
+  journal: "Computers &amp; Mathematics with Applications"
+  volume: "56(10)"
+  pages: "2539–2549"
+  year: 2008
+  status: "Published"
+  doi: "10.1016/j.camwa.2008.05.037"
   selected: false
