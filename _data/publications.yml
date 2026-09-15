@@ -100,7 +100,7 @@
   year: 2026
   status: "Published"
   doi: "10.1137/25M1812087"
-  selected: false
+  selected: true
 
 - title: "Low-order finite element complex with application to a fourth-order elliptic singular perturbation problem"
   authors: "X. Cui and <strong>Xuehai Huang</strong>"
