@@ -82,6 +82,16 @@
   arxiv: "2410.09689"
   selected: false
 
+- title: "Complexes from complexes: finite element complexes in three dimensions"
+  authors: "L. Chen and <strong>Xuehai Huang</strong>"
+  journal: "Mathematics of Computation"
+  volume: "95(359)"
+  pages: "1083–1142"
+  year: 2026
+  status: "Published"
+  doi: "10.1090/mcom/4079"
+  selected: true
+
 - title: "Superconvergent and Divergence-Free Mixed Finite Element Methods for the Stokes Equation"
   authors: "L. Chen, <strong>Xuehai Huang</strong>, C. Zhang, and X. Zhao"
   journal: "SIAM Journal on Numerical Analysis"
@@ -100,16 +110,6 @@
   year: 2026
   status: "Published"
   doi: "10.1137/25M1772320"
-  selected: true
-
-- title: "Complexes from complexes: finite element complexes in three dimensions"
-  authors: "L. Chen and <strong>Xuehai Huang</strong>"
-  journal: "Mathematics of Computation"
-  volume: "95(359)"
-  pages: "1083–1142"
-  year: 2026
-  status: "Published"
-  doi: "10.1090/mcom/4079"
   selected: true
 
 - title: "A robust C⁰ interior penalty method for a gradient-elastic Kirchhoff plate model"
