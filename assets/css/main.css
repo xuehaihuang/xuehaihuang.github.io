@@ -621,6 +621,54 @@ h3 {
   font-size: 2rem;
 }
 
+.student-roster {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem;
+}
+
+.student-group {
+  border-top: 2px solid var(--navy);
+  padding: 2rem;
+  background: var(--wash);
+}
+
+.student-group .card-kicker {
+  margin-bottom: 0.5rem;
+}
+
+.student-group > h2 {
+  margin-bottom: 1.8rem;
+  font-size: 1.8rem;
+}
+
+.student-entries {
+  border-top: 1px solid var(--line);
+}
+
+.student-entry {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.student-entry h3 {
+  margin-bottom: 0.2rem;
+  font-family: var(--sans);
+  font-size: 1rem;
+  font-weight: 750;
+}
+
+.student-entry p {
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.student-entry .student-position {
+  color: var(--blue);
+  font-family: var(--serif);
+}
+
 .line-list {
   margin: 2rem 0 0;
   padding: 0;
@@ -834,6 +882,10 @@ h3 {
   }
 
   .students-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .student-roster {
     grid-template-columns: 1fr;
   }
 }
