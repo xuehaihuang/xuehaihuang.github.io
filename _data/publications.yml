@@ -110,7 +110,7 @@
   year: 2026
   status: "Published"
   doi: "10.1137/25M1772320"
-  selected: true
+  selected: false
 
 - title: "A robust C⁰ interior penalty method for a gradient-elastic Kirchhoff plate model"
   authors: "M. Chen, J. Huang, and <strong>Xuehai Huang</strong>"
@@ -190,7 +190,7 @@
   year: 2025
   status: "Published"
   doi: "10.1090/mcom/3957"
-  selected: false
+  selected:  true
 
 - title: "H(div)-conforming finite element tensors with constraints"
   authors: "L. Chen and <strong>Xuehai Huang</strong>"
